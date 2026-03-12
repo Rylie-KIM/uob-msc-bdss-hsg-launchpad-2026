@@ -22,9 +22,9 @@ University email (students using a verified university email can access the plat
 Phone number registration
 Password requirements:
 
-Must include *ppercase letters
+Must include uppercase letters
 Must include lowercase letters
-Must include *pecial characters
+Must include special characters
 At least 8 characters
 User agreements:
 
